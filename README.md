@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cherif-94 
+- 👋 Hi, I’m @Cherif-94 Software engineer 
 - 👀 I’m interested in web development ( JavaScript Mearn stack )
 - 🌱 I’m currently learning web development javascript 
 - 💞️ I’m looking to collaborate on ...
