@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cherif Ayachi  Software engineer 
-- 👀 I’m interested in web development and Automation testin ( JavaScript / Cypress )
+- 👀 I’m interested in web development and Automation testing ( JavaScript / Cypress )
 - 🌱 I’m currently learning testCafe for automation testing using  javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ( Github : @Cherif-94 / Linkedin : Cherif Ayachi / Email : ayachichrif23@gmail.com )
